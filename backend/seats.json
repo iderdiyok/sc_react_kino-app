@@ -1,0 +1,794 @@
+[
+  {
+    "line": "A",
+    "price": 9.9,
+    "places": [
+      {
+        "id": "90GwrkxymPC8wxPmnd0DK",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "8iF1NdjO-Az-dMUJMEpZI",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "R0jwhhKxOMLes4uM0DHiL",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "-iSG3LP288JlrQ6kUAPFR",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "xGKWQJg66dZEvVhHOARTH",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "BwAdbHU7hty4bWfuISW5C",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "yToPY3lr9yrayBzOsuB-s",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "JmhgkTSpjZuqLUVONu8ad",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "gE4rtrPy7nHoJyr3rJPDO",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ff7xXd27KfgFyYwwGFnXr",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "W-y_9UYtrXrRYsu8mX91Y",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "B",
+    "price": 9.9,
+    "places": [
+      {
+        "id": "Smj_fiiF5gwH9UMUvvlML",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "5N6RJWoB3Lmy6StThYGiT",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "w_hCfhBZ7op4h9RgQTJ2w",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "nrgl9rF3buguwlllv9449",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "x9oNz3-unlFKjsAZ-ZQDL",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ZR0Xcs-KzoYx6uJkD2EOd",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Xhcg-HTnMrITZdzPiylki",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "2UeYDoKpPxt48Vq1BxgjF",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "K8qQ3aKu1SZ5Ap2-U7J-7",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "9r29nS4P8dgZqccI8gUvE",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "FKAS8u3GncUGreT85wRYH",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "C",
+    "price": 9.9,
+    "places": [
+      {
+        "id": "mMLscXvqX6NrsNVVxaBxI",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "LTeT7eF_nS61Y7HN6YdZn",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "H7-sP0s-har_2JjWhGplw",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "9Nr-fulgrVPBXP603CK5b",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "sDteWK_6VE7uuruR3bSqp",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "O5Y8iAVr3nSeALwpeeqFA",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "1oF8PGbRfvCnha7PcLs1M",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "uKMdxD9tnfitBC1AkjQr5",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "PCiSZ5bQ8y9tyWXMEa50R",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "bZgmG7H0W4jj-UPpGdoA7",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ThYvWZW3l4hdCi3rZnfNe",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "D",
+    "price": 9.9,
+    "places": [
+      {
+        "id": "MjrMN_rnoRIz8nytHxD7u",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "d6eX_XyirwmSmZQ-ZJHR5",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "FM8clyXPOjZm8bYYcz8RZ",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "rPuueAbxVaSS2oHVR9fzg",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "M4nESfGRLXenkVdHliBNz",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "cgoqn-vBW89lrxzuGzrMS",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "8H5Pex4o-SajbAD397KmO",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "2WRmfR7g5JvvyTSNwkjCN",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "9JGUhWhdxd01sB0gq7RdE",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "_1b16p-E5CslN_FRFG8SR",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "5NyQkHGtYcURu0OpwKEC6",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "E",
+    "price": 9.9,
+    "places": [
+      {
+        "id": "Vcew-Ak3a_ZnjRverp_7D",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "kcL_Jhp6wjVbiPCLYsXPs",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "bjL8mH5EK_OWT8dLeXp9i",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "1vTlApSLxXcqgCQD-lfvF",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "TSYyHBvK6b1He1Lx9v3Wc",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "WiVtKXyTSvTAMignOm1mc",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "nCO2804_mzXmJiBj6V1Z3",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "7m2zYuuNkrMgVR2fKBJYK",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "-Kr68Y7guGN3Pw_aJdMAL",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ApxHAH3ksED4l-F1girpF",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "XID3f5KfEdVMj-U3wu1G8",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "F",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "7pErWrgFv-hhfO8PMPmwH",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "mJEVArH7yCRMmjaAWdjUN",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "rsGsdOJCfDM2L8hib1Wid",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "DLCJSADz6kieQ0KIQpTH3",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ojn8yVCr5Yq3XSU_nf-0a",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "CMI2QW1u22T1kQYJUcbF_",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "o9qdQxiamqbHaIDoP2B6m",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "dBUakNI6mUoDPOnHclCZY",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "mMuSVVeBv_GjJELXRAQjz",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "1QAdYvMdrwNzSs7ti55Qx",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "PeRBhxWvPVNurIs_wv2wI",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "G",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "eS5b7tvkxl4Ns-bWRH0dJ",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ZhXTRNkJxg8hy-y7vxDFn",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "MZ4jtwJKoYgrfsI_337jK",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "JCdLDNm62mw3QTmNEgNEa",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ulM4o_XQjboOiyEPRA6rg",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "S7pNbF2fdvUtM85qpJd-L",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "cKFSSHg68T32YHartCMKL",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "mUpI5LrUVLDnG3HepgF_n",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "2zQ_0eHDtAmFzOdEqtTBX",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "JpnVCDcdanKyOo0SKvr7Q",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Whnb_NyPVRfhyfoZWkmF5",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "H",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "0eqypeJn-YB1Ve7P5FoJJ",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "vgoVoItaAQ4gNfa-yzLyj",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "zIqVqs_7c_7KKr0fbUazN",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "dhKcv82iTQjlCiD9nngjt",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "pxvghyUr0OVN1XZ2grFEQ",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "lwcR8C0X120sjstuPOLnH",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "TG94q9EpjuId3b1zmXO--",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "6JkrFAvz8KYREDuI3-Nq8",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "er12rnm2rDT9JfpJFLLNq",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "ob6FFQ8JhcC3p7kn9_yz9",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "3Xuob9mPaC_UqRMdBX5fE",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "I",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "7D7IuofpTcgyMntVViwlW",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "M_RnKfjw0yJBnln9c5VxX",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "W_74J-j0F8dkY9Rv8Y5ng",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "8-F07EEkBtRI9jZh193RS",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Huz3d9THXJIg7bia01_I6",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "jUgYL5xRq5_GvGJDBNKnX",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "7q-igGQTDPJwzv9uyZF_v",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "uM-OQM66cIqBjE6WqcBTd",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Sr6V1gruzCCLYBEI4Q8-p",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "3iQ7kTLxxt3m_PZU9rFbh",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "pd6DTYf5StMBIHybkbgVL",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "J",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "u9uayfSgsf4j0wxD11S4h",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "oTXd9eGTXovQkq1tuVZ_s",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "DTzCcuxlpOp0CaIHKEU4k",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "2IS0IR_ESInLIEL6FBFk_",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "dVmOhi1nYHZ-v4lbgbivG",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "QnY22oCar7UGsHVqHrXUK",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "lZLcoKVv9lzuaJ7bjs_sk",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "z6FFmxHno31Co3weTPLoR",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "YDHhpLytBR-Q2CuKMvWcE",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "v0gQbV7hiWvbfWjp6JFlB",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "map1FbCM0x9-IFbtJM_Gp",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  },
+  {
+    "line": "K",
+    "price": 12.9,
+    "places": [
+      {
+        "id": "HVyjvM9yFMyOW1NtZNNy_",
+        "seatNr": 1,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "hKVgGQffehezFFULn4qop",
+        "seatNr": 2,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "8mnukQGUcuNh9PD8cDpJd",
+        "seatNr": 3,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Mw52Ou7cK0Rvas4-LuJn0",
+        "seatNr": 4,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "JLNF2trjdiUdUHStBDbWE",
+        "seatNr": 5,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "yWTo1sMIHUZVD4xSSyrOO",
+        "seatNr": 6,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "JOkQ2vurWJPv6H6dsP29Z",
+        "seatNr": 7,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "sYIZ24xc4iXIA1soSp8s_",
+        "seatNr": 8,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "EyoOiQAFjfUJGjJ1JwLoD",
+        "seatNr": 9,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "Tkt7I8kD_59GqcFcdn756",
+        "seatNr": 10,
+        "reserved": false,
+        "booked": false
+      },
+      {
+        "id": "MXkDhHpZyDF9n-2MwJrvm",
+        "seatNr": 11,
+        "reserved": false,
+        "booked": false
+      }
+    ]
+  }
+]

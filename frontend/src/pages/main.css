@@ -1,0 +1,17 @@
+.bg-image{
+  background-image: url('/public/thebatman.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.free:hover, .active{
+  background-color: #ffc107!important;
+}
+.user{
+  background-image: url('/public/user.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e1e1e1!important;
+}
