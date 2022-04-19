@@ -41,6 +41,11 @@ const Checkout = (props) => {
             .catch(err => {console.log(err);})
     }
 
+    useEffect(() => {
+        if(booked){
+            setInterval(() => setBooked(false), 3000)
+        }
+    }, [booked])
     return ( 
         <div className="col-md-5 col-lg-4 order-md-last">
             <div className={booked ? 'd-none' : 'show'}>
