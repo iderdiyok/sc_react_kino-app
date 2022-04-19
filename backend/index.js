@@ -3,7 +3,7 @@ const cors = require("cors")
 const {readSeats, saveSeats, setReservedOrBooked} = require("./operators")
 const { CreateNewJson } = require("./createJson")
 
-const PORT = 9000
+const PORT = process.env.PORT || 9000
 const app = express()
 
 app.use((req, _, next) =>{
