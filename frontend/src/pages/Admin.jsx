@@ -24,7 +24,6 @@ const Admin = () => {
     return ( 
         <main className='container'>
             <Header />
-            <h1>ADMIN</h1>
             <div className="row align-items-md-stretch">
                 <FreePlaces seats={seats} earn={earn} setEarn={setEarn}/>
                 <Sales seats={seats} earn={earn}/>
