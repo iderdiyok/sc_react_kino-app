@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import {api_url} from "../api"
 
 const Checkout = (props) => {
 
@@ -7,7 +8,7 @@ const Checkout = (props) => {
     const[booked, setBooked] = useState(false)
 
     useEffect(() => {
-        fetch("http://localhost:9000/seats/reserved")
+        fetch(api_url + "/seats/reserved")
         .then(response => response.json())
         .then(reservedsArr => {
             setReservedPlaces(reservedsArr)
@@ -26,7 +27,7 @@ const Checkout = (props) => {
     }, [reservedPlaces])
 
     const bookSeats = () => {
-        fetch("http://localhost:9000/seats/booked", {
+        fetch(api_url + "/seats/booked", {
                 method: "PUT",
                 headers : { 
                     'Content-Type': 'application/json',

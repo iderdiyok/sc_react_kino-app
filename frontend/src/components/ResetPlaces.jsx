@@ -1,6 +1,8 @@
+import {api_url} from "../api"
+
 const ResetPlaces = (props) => {
   const resetSeats = () => {
-    fetch("http://localhost:9000/seats/reset")
+    fetch(api_url + "/seats/reset")
     .then(response => response.json())
     .then(newSeatsArr => {
       props.setSeats(newSeatsArr)

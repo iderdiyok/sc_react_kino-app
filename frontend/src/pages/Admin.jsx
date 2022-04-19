@@ -3,13 +3,14 @@ import FreePlaces from "../components/FreePlaces";
 import Header from "../components/Header";
 import ResetPlaces from "../components/ResetPlaces";
 import Sales from "../components/Sales";
+import {api_url} from "../api"
 
 const Admin = () => {
     const[seats, setSeats] = useState([])
     const[earn, setEarn] = useState(0)
 
     useEffect(() => {
-        fetch("http://localhost:9000/seats")
+        fetch(api_url + "/seats")
         .then(response => response.json())
         .then(seatsArr => {
             setSeats(seatsArr)

@@ -1,11 +1,11 @@
 import { useState } from "react";
-
+import {api_url} from "../api"
 const Seat = (props) => {
     const[reserved, setReserved] = useState(props.place.reserved)
 
     const updateSeatBooked = () => {
         if(!props.place.booked){
-            fetch("http://localhost:9000/seats/reserved", {
+            fetch(api_url + "/seats/reserved", {
                 method: "PUT",
                 headers : { 
                     'Content-Type': 'application/json',

@@ -2,12 +2,13 @@ import { useEffect } from "react";
 import Checkout from "./Checkout";
 import Seat from "./Seat";
 import SeatLegend from "./SeatLegend";
+import {api_url} from "../api"
 
 const HallPlan = (props) => {
 
 
     useEffect(() => {
-        fetch("http://localhost:9000/seats")
+        fetch(api_url + "/seats")
         .then(response => response.json())
         .then(seatsArr => {
             props.setSeats(seatsArr)
